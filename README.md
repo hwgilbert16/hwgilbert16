@@ -2,7 +2,7 @@
 
 My name is Harrison. I'm a hobbyist software engineer 🛠 from Pennsylvania in the United States, with a love for all things software and open source. I'm a huge fan of 🐳 Docker!
 
-## 🛠 Tools, technologies, and frameworks
+## 🛠 Tools, technologies, operating systems, and frameworks
 
 A non-inclusive assortment of some of my favorite technologies that I have experience in.
 
@@ -14,6 +14,7 @@ A non-inclusive assortment of some of my favorite technologies that I have exper
 ![IntelliJ IDEA](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?logo=IntelliJIDEA&style=flat&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/Editor-WebStorm-blue?logo=WebStorm&style=flat&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/Editor-PyCharm-blue?logo=PyCharm&style=flat&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/Editor-PhpStorm-blue?logo=PhpStorm&style=flat&logoColor=white)
 
 ![Kubernetes](https://img.shields.io/badge/Technologies-Kubernetes-blue?logo=Kubernetes&style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Technologies-Docker-blue?logo=Docker&style=flat&logoColor=white)
@@ -24,6 +25,7 @@ A non-inclusive assortment of some of my favorite technologies that I have exper
 
 ![NestJS](https://img.shields.io/badge/Frameworks-NestJS-blue?logo=NestJS&style=flat&logoColor=white)
 ![Express](https://img.shields.io/badge/Frameworks-Express-blue?logo=Express&style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Frameworks-TypeScript-blue?logo=TypeScript&style=flat&logoColor=white)
 
 ## 📊 Statistics
 
