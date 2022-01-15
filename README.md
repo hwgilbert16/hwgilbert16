@@ -1,10 +1,10 @@
 # Hey there! 👋
 
-My name is Harrison. I'm a hobbyist software engineer 🛠 from Pennsylvania in the United States, with a love for all things software and open source. I'm a huge fan of 🐳 Docker!
+My name is Harrison. I'm a software engineer at [@SeniorStudios](https://github.com/SeniorStudios) 🛠. I live in Pennsylvania, with a love for all things software and open source. I'm a huge fan of 🐳 Docker!
 
-## 🛠 Tools, technologies, operating systems, and frameworks
+## 🛠 Tech that I have experience in
 
-A non-inclusive assortment of some of my favorite technologies that I have experience in.
+An assortment of some of my favorite technologies that I have experience in.
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=JavaScript&style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=Python&style=flat&logoColor=white)
@@ -29,7 +29,7 @@ A non-inclusive assortment of some of my favorite technologies that I have exper
 
 ## 📊 Statistics
 
-![Account Statistics](https://github-readme-stats.vercel.app/api?username=hwgilbert16&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwgilbert16&hide=php)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwgilbert16&hide=php)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hwgilbert16&show_icons=true">
+</p>
