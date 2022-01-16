@@ -30,6 +30,6 @@ An assortment of some of my favorite technologies that I have experience in.
 ## 📊 Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwgilbert16&hide=php)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwgilbert16&hide=php">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hwgilbert16&show_icons=true">
 </p>
