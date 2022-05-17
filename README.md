@@ -27,9 +27,9 @@ An assortment of some of my favorite technologies that I have experience in.
 ![Express](https://img.shields.io/badge/Frameworks-Express-blue?logo=Express&style=flat&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Frameworks-TypeScript-blue?logo=TypeScript&style=flat&logoColor=white)
 
-## 📊 Statistics
+<!-- ## 📊 Statistics
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwgilbert16&hide=php">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hwgilbert16&show_icons=true">
-</p>
+</p> -->
