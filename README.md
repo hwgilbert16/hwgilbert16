@@ -4,12 +4,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Harrison%20Gilbert-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harrisongilbert16/ "Connect on LinkedIn")
 [![Discord Badge](https://img.shields.io/badge/-Zerxal%237199-5865F2?style=flat&logo=Discord&logoColor=white)](https://www.linkedin.com/in/harrisongilbert16/ "Connect on LinkedIn")
 
-My name is Harrison, and I'm a software engineer 🛠 living in the United States. Passionate about containerization :whale2:, open source :octocat:, and web architecture :globe_with_meridians:. Always seeking new skills and opportunities to contribute to new projects!
+<img src="img/wave.png" align="right" height="275" />
+
+My name is Harrison, and I'm a software engineer :hammer_and_wrench: living in the United States. Passionate about containerization :whale2:, open source :octocat:, and web architecture :globe_with_meridians:. Always seeking new skills and opportunities to contribute to new projects!
 
 <details>
   <summary>Tech that I have experience in :memo:</summary>
   
   <p>An assortment of some favorite technologies that I have experience with:</p>
+
+  <img src="img/laptop.png" align="right" height="200" />
   
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=JavaScript&style=flat&logoColor=white)
   ![Python](https://img.shields.io/badge/Code-Python-blue?logo=Python&style=flat&logoColor=white)
@@ -30,8 +34,9 @@ My name is Harrison, and I'm a software engineer 🛠 living in the United State
   ![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=Windows&style=flat&logoColor=white)
 
   ![NestJS](https://img.shields.io/badge/Frameworks-NestJS-blue?logo=NestJS&style=flat&logoColor=white)
-  ![AngularJS](https://img.shields.io/badge/Frameworks-AngularJS-blue?logo=AngularJS&style=flat&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Frameworks-Angular-blue?logo=Angular&style=flat&logoColor=white)
   ![Express](https://img.shields.io/badge/Frameworks-Express-blue?logo=Express&style=flat&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/Frameworks-TypeScript-blue?logo=TypeScript&style=flat&logoColor=white)
+
 ---
 </details>
