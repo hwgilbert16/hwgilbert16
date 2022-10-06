@@ -9,11 +9,8 @@
 My name is Harrison, and I'm a software engineer :hammer_and_wrench: living in the United States. Passionate about containerization :whale2:, open source :octocat:, and web architecture :globe_with_meridians:. Always seeking new skills and opportunities to contribute to new projects!
 
 <details>
-  <summary>Tech that I have experience in :memo:</summary>
-  
-  <p>An assortment of some favorite technologies that I have experience with:</p>
-
-  <img src="https://raw.githubusercontent.com/hwgilbert16/hwgilbert16/main/img/laptop.PNG" align="right" height="200" />
+  <summary>Assortment of tech that I have experience in :memo:</summary>
+  <br>
   
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=JavaScript&style=flat&logoColor=white)
   ![Python](https://img.shields.io/badge/Code-Python-blue?logo=Python&style=flat&logoColor=white)
