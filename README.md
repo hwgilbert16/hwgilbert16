@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Harrison%20Gilbert-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harrisongilbert16/ "Connect on LinkedIn")
 [![Discord Badge](https://img.shields.io/badge/-Zerxal%237199-5865F2?style=flat&logo=Discord&logoColor=white)](https://www.linkedin.com/in/harrisongilbert16/ "Connect on LinkedIn")
 
-<img src="img/wave.png" align="right" height="275" />
+<img src="https://raw.githubusercontent.com/hwgilbert16/hwgilbert16/main/img/wave.PNG" align="right" height="275" />
 
 My name is Harrison, and I'm a software engineer :hammer_and_wrench: living in the United States. Passionate about containerization :whale2:, open source :octocat:, and web architecture :globe_with_meridians:. Always seeking new skills and opportunities to contribute to new projects!
 
@@ -13,7 +13,7 @@ My name is Harrison, and I'm a software engineer :hammer_and_wrench: living in t
   
   <p>An assortment of some favorite technologies that I have experience with:</p>
 
-  <img src="img/laptop.png" align="right" height="200" />
+  <img src="https://raw.githubusercontent.com/hwgilbert16/hwgilbert16/main/img/laptop.PNG" align="right" height="200" />
   
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=JavaScript&style=flat&logoColor=white)
   ![Python](https://img.shields.io/badge/Code-Python-blue?logo=Python&style=flat&logoColor=white)
