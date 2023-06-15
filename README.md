@@ -1,8 +1,6 @@
 # Hey there! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-hwgilbert16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hwgilbert16@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Harrison%20Gilbert-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harrisongilbert16/ "Connect on LinkedIn")
-[![Discord Badge](https://img.shields.io/badge/-Zerxal%237199-5865F2?style=flat&logo=Discord&logoColor=white)](https://www.linkedin.com/in/harrisongilbert16/ "Discord tag")
 
 <img src="https://raw.githubusercontent.com/hwgilbert16/hwgilbert16/main/img/wave.PNG" align="right" height="275" />
 
