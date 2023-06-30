@@ -15,11 +15,6 @@ My name is Harrison, and I'm a software engineer :hammer_and_wrench: living in t
   ![Java](https://img.shields.io/badge/Code-Java-blue?logo=Java&style=flat&logoColor=white)
   ![PHP](https://img.shields.io/badge/Code-php-blue?logo=php&style=flat&logoColor=white)
 
-  ![IntelliJ IDEA](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?logo=IntelliJIDEA&style=flat&logoColor=white)
-  ![WebStorm](https://img.shields.io/badge/Editor-WebStorm-blue?logo=WebStorm&style=flat&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/Editor-PyCharm-blue?logo=PyCharm&style=flat&logoColor=white)
-  ![PhpStorm](https://img.shields.io/badge/Editor-PhpStorm-blue?logo=PhpStorm&style=flat&logoColor=white)
-
   ![Kubernetes](https://img.shields.io/badge/Technologies-Kubernetes-blue?logo=Kubernetes&style=flat&logoColor=white)
   ![Docker](https://img.shields.io/badge/Technologies-Docker-blue?logo=Docker&style=flat&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/Technologies-MariaDB-blue?logo=MariaDB&style=flat&logoColor=white)
