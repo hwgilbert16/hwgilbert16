@@ -1,9 +1,5 @@
 # Hey there! 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-hwgilbert16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hwgilbert16@gmail.com "Connect via Email")
-
-<img src="https://raw.githubusercontent.com/hwgilbert16/hwgilbert16/main/img/wave.PNG" align="right" height="275" />
-
 My name is Harrison, and I'm a software engineer :hammer_and_wrench: living in the United States. Passionate about containerization :whale2:, open source :octocat:, and web architecture :globe_with_meridians:. Always seeking new skills and opportunities to contribute to new projects!
 
 <details>
