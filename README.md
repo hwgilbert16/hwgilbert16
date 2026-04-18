@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-My name is Harrison, and I'm a software engineer :hammer_and_wrench: living in the United States. Passionate about containerization :whale2:, open source :octocat:, and web architecture :globe_with_meridians:. Always seeking new skills and opportunities to contribute to new projects!
+My name is Harrison, and I'm a software engineer :hammer_and_wrench: living in the United States.
 
 <details>
   <summary>Assortment of tech that I have experience in :memo:</summary>
